@@ -1,0 +1,26 @@
+{
+  "name": "masteringnodejsnotes",
+  "version": "0.0.1",
+  "description": "Follow up notes",
+  "main": "SpeedLoop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekbharatha/MasteringNodeJsNotes.git"
+  },
+  "author": "VivekBharatha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivekbharatha/MasteringNodeJsNotes/issues"
+  },
+  "homepage": "https://github.com/vivekbharatha/MasteringNodeJsNotes#readme",
+  "devDependencies": {
+    "eslint-config-google": "0.9.1"
+  },
+  "dependencies": {
+    "ajv": "6.2.0",
+    "eslint": "4.18.1"
+  }
+}
